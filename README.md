@@ -1,6 +1,6 @@
 ![React Static Logo](https://github.com/react-static/react-static/raw/master/media/react-static-logo-2x.png)
 
-[![Travis CI Build Status](https://travis-ci.org/react-static/react-static.svg?branch=master)](https://travis-ci.org/react-static/react-static) [![David Dependancy Status](https://david-dm.org/react-static/react-static.svg)](https://david-dm.org/react-static/react-static) [![npm package v](https://img.shields.io/npm/v/react-static.svg)](https://www.npmjs.org/package/react-static) [![npm package dm](https://img.shields.io/npm/dm/react-static.svg)](https://npmjs.com/package/react-static) [![Join the community on Spectrum](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/react-static)
+[![Travis CI Build Status](https://travis-ci.org/react-static/react-static.svg?branch=master)](https://travis-ci.org/react-static/react-static) [![David Dependancy Status](https://david-dm.org/react-static/react-static.svg)](https://david-dm.org/react-static/react-static) [![npm package v](https://img.shields.io/npm/v/react-static.svg)](https://www.npmjs.org/package/react-static) [![npm package dm](https://img.shields.io/npm/dm/react-static.svg)](https://npmjs.com/package/react-static)
 [![Github Stars](https://img.shields.io/github/stars/react-static/react-static.svg?style=social&label=Star)](https://github.com/react-static/react-static) [![Twitter Follow](https://img.shields.io/twitter/follow/reactstaticjs.svg?style=social&label=Follow)](https://twitter.com/reactstaticjs)
 
 <br>
@@ -143,9 +143,9 @@ React Static is also a great replacement for the ever popular Create React App C
   - [Introducing React-Static! How it works and why we built it!](https://www.youtube.com/watch?v=OqbJ5swVpDQ) (80 min)
   - [Using React-Static to replace create-react-app](https://youtu.be/1pBzh7IM1s8) (5 min)
 
-## Support, Community & Chat
+## Support & Community
 
-Need some help? Have a quick question? [Click here to sign up for the React-Tools spectrum community](https://spectrum.chat/react-static)! We are constantly answering questions, discussing features and helping each other out!
+Need some help? Have a quick question? Visit our GitHub [Discussions](https://github.com/react-static/react-static/discussions) where we are constantly answering questions, discussing features and helping each other out!
 
 ## Contributing, Issues & Bugs
 
